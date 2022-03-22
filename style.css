@@ -46,6 +46,8 @@ header .coluna-direita{
 }
 
 header .coluna img{
+    width: 50%;
+    heigth: 50%;
     max-width: 100%;
 }
 
